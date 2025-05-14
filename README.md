@@ -1,1 +1,1 @@
-# Chest-xray-Image-Classification
+# Image classification using xray images to detect pneumonia 
